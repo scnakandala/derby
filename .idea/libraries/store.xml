@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="store">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java/testing/org/apache/derbyTesting/functionTests/tests/store/brtestjar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java/testing/org/apache/derbyTesting/functionTests/tests/store/obtest_customer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

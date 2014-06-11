@@ -7,6 +7,14 @@
 *.jar
 *.war
 *.ear
-
+.svn/
+bin/
+classes/
+generated/
+jars/
+maven2/
+plugins/
+release/
+tools/
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*

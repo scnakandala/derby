@@ -1,98 +1,0 @@
-10
-
-dir
-1601568
-https://svn.apache.org/repos/asf/db/derby/code/trunk/java/engine/org/apache/derby/impl/services
-https://svn.apache.org/repos/asf
-
-
-
-2014-06-06T12:21:45.350736Z
-1600866
-rhillegas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-build.xml
-file
-
-
-
-
-2014-06-11T16:18:21.000000Z
-7957db1c8b633e4f9de50ac6d57122e0
-2013-05-14T20:46:59.166009Z
-1482578
-rhillegas
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2120
-
-bytecode
-dir
-
-cache
-dir
-
-daemon
-dir
-
-jce
-dir
-
-jmx
-dir
-
-jmxnone
-dir
-
-locks
-dir
-
-monitor
-dir
-
-reflect
-dir
-
-stream
-dir
-
-timer
-dir
-
-uuid
-dir
-
