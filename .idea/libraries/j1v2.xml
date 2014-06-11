@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="j1v2">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/java/testing/org/apache/derbyTesting/functionTests/testData/v2/j1v2.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

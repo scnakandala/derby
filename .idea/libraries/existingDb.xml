@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="existingDb">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/java/testing/org/apache/derbyTesting/functionTests/tests/perf/existingDb.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
