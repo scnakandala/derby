@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1571615/db/derby/code/trunk/java/client/org/apache/derby/client
+END
+ClientDataSourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1471245/db/derby/code/trunk/java/client/org/apache/derby/client/ClientDataSourceFactory.java
+END
+ClientPooledConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505928/db/derby/code/trunk/java/client/org/apache/derby/client/ClientPooledConnection.java
+END
+ClientXid.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1467726/db/derby/code/trunk/java/client/org/apache/derby/client/ClientXid.java
+END
+ClientXAConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505928/db/derby/code/trunk/java/client/org/apache/derby/client/ClientXAConnection.java
+END

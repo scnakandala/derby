@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1583855/db/derby/code/trunk/java/engine/org/apache/derby/vti
+END
+RestrictedVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1160858/db/derby/code/trunk/java/engine/org/apache/derby/vti/RestrictedVTI.java
+END
+VTITemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1583855/db/derby/code/trunk/java/engine/org/apache/derby/vti/VTITemplate.java
+END
+VTIMetaDataTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1481379/db/derby/code/trunk/java/engine/org/apache/derby/vti/VTIMetaDataTemplate.java
+END
+Pushable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/429870/db/derby/code/trunk/java/engine/org/apache/derby/vti/Pushable.java
+END
+Restriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1160858/db/derby/code/trunk/java/engine/org/apache/derby/vti/Restriction.java
+END
+VTIContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1561668/db/derby/code/trunk/java/engine/org/apache/derby/vti/VTIContext.java
+END
+StringColumnVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1563135/db/derby/code/trunk/java/engine/org/apache/derby/vti/StringColumnVTI.java
+END
+IQualifyable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/429870/db/derby/code/trunk/java/engine/org/apache/derby/vti/IQualifyable.java
+END
+DeferModification.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/515789/db/derby/code/trunk/java/engine/org/apache/derby/vti/DeferModification.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1479972/db/derby/code/trunk/java/engine/org/apache/derby/vti/build.xml
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/574945/db/derby/code/trunk/java/engine/org/apache/derby/vti/package.html
+END
+UpdatableVTITemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1480251/db/derby/code/trunk/java/engine/org/apache/derby/vti/UpdatableVTITemplate.java
+END
+AwareVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1561668/db/derby/code/trunk/java/engine/org/apache/derby/vti/AwareVTI.java
+END
+IFastPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/429870/db/derby/code/trunk/java/engine/org/apache/derby/vti/IFastPath.java
+END
+XmlVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1549938/db/derby/code/trunk/java/engine/org/apache/derby/vti/XmlVTI.java
+END
+ForeignTableVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1563944/db/derby/code/trunk/java/engine/org/apache/derby/vti/ForeignTableVTI.java
+END
+ForwardingVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1563944/db/derby/code/trunk/java/engine/org/apache/derby/vti/ForwardingVTI.java
+END
+VTIEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/574945/db/derby/code/trunk/java/engine/org/apache/derby/vti/VTIEnvironment.java
+END
+VTICosting.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/574945/db/derby/code/trunk/java/engine/org/apache/derby/vti/VTICosting.java
+END

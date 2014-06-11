@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/516194/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/diag
+END
+Performance.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/diag/Performance.java
+END
+DiagnosticUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/516194/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/diag/DiagnosticUtil.java
+END
+DiagnosticableGeneric.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/diag/DiagnosticableGeneric.java
+END
+Diagnosticable.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/516194/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/diag/Diagnosticable.java
+END

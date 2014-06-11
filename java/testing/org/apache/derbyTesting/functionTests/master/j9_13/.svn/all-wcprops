@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/835153/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/master/j9_13
+END
+caseI_tr_TR.out
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/467793/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/master/j9_13/caseI_tr_TR.out
+END
+ij.out
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/467793/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/master/j9_13/ij.out
+END
+dml160.out
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/478883/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/master/j9_13/dml160.out
+END
+dml119.out
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/467793/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/master/j9_13/dml119.out
+END
+floattypes.out
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/694954/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/master/j9_13/floattypes.out
+END
+outparams.out
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/439335/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/master/j9_13/outparams.out
+END

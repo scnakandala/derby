@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1591703/db/derby/code/trunk/java/engine/org/apache/derby/iapi/reference
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1433218/db/derby/code/trunk/java/engine/org/apache/derby/iapi/reference/Attribute.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1591703/db/derby/code/trunk/java/engine/org/apache/derby/iapi/reference/Property.java
+END
+JDBC40Translation.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/429923/db/derby/code/trunk/java/engine/org/apache/derby/iapi/reference/JDBC40Translation.java
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/628142/db/derby/code/trunk/java/engine/org/apache/derby/iapi/reference/Module.java
+END
+ClassName.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1413586/db/derby/code/trunk/java/engine/org/apache/derby/iapi/reference/ClassName.java
+END
+DRDAConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1049180/db/derby/code/trunk/java/engine/org/apache/derby/iapi/reference/DRDAConstants.java
+END
+EngineType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/487742/db/derby/code/trunk/java/engine/org/apache/derby/iapi/reference/EngineType.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1481379/db/derby/code/trunk/java/engine/org/apache/derby/iapi/reference/build.xml
+END
+SQLState.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/429923/db/derby/code/trunk/java/engine/org/apache/derby/iapi/reference/SQLState.java
+END
+ContextId.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/429923/db/derby/code/trunk/java/engine/org/apache/derby/iapi/reference/ContextId.java
+END
+Limits.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1448002/db/derby/code/trunk/java/engine/org/apache/derby/iapi/reference/Limits.java
+END
+MessageId.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/429923/db/derby/code/trunk/java/engine/org/apache/derby/iapi/reference/MessageId.java
+END

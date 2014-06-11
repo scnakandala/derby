@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1583505/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/info
+END
+JVMInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1581777/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/info/JVMInfo.java
+END
+PropertyNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/info/PropertyNames.java
+END
+ProductVersionHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1484818/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/info/ProductVersionHolder.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/636813/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/info/Version.java
+END
+ProductGenusNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1583505/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/info/ProductGenusNames.java
+END

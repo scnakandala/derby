@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1591910/db/derby/code/trunk/java/engine/org/apache/derby/impl/db
+END
+BasicDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1591910/db/derby/code/trunk/java/engine/org/apache/derby/impl/db/BasicDatabase.java
+END
+DatabaseContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1133304/db/derby/code/trunk/java/engine/org/apache/derby/impl/db/DatabaseContextImpl.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1482443/db/derby/code/trunk/java/engine/org/apache/derby/impl/db/build.xml
+END
+SlaveDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1454600/db/derby/code/trunk/java/engine/org/apache/derby/impl/db/SlaveDatabase.java
+END
+StoreClassFactoryContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/513222/db/derby/code/trunk/java/engine/org/apache/derby/impl/db/StoreClassFactoryContext.java
+END

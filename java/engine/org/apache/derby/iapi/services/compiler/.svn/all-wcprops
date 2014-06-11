@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1413586/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/compiler
+END
+MethodBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1413586/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/compiler/MethodBuilder.java
+END
+JavaFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/515102/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/compiler/JavaFactory.java
+END
+ClassBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1413586/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/compiler/ClassBuilder.java
+END
+LocalField.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/compiler/LocalField.java
+END

@@ -1,0 +1,83 @@
+10
+
+dir
+1601568
+https://svn.apache.org/repos/asf/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData
+https://svn.apache.org/repos/asf
+
+
+
+2014-06-05T22:50:25.788958Z
+1600788
+myrnavl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+ConnectionMethods
+dir
+
+Derby6587
+dir
+
+ImportExport
+dir
+
+ResultSetStream
+dir
+
+build.xml
+file
+
+
+
+
+2014-06-11T16:18:03.000000Z
+ad0c2520f0bafc827f337da720bb5332
+2014-06-05T22:50:25.788958Z
+1600788
+myrnavl
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3844
+
+serializedDataSources
+dir
+
+v1
+dir
+
+v2
+dir
+

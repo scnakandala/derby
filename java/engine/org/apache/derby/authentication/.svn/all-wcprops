@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1480251/db/derby/code/trunk/java/engine/org/apache/derby/authentication
+END
+SystemPrincipal.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/636875/db/derby/code/trunk/java/engine/org/apache/derby/authentication/SystemPrincipal.java
+END
+UserAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/429870/db/derby/code/trunk/java/engine/org/apache/derby/authentication/UserAuthenticator.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1480251/db/derby/code/trunk/java/engine/org/apache/derby/authentication/build.xml
+END

@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1599544/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util
+END
+useprocessfalse.policy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/684809/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/useprocessfalse.policy
+END
+T_Access.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/483822/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/T_Access.java
+END
+JDBCTestDisplayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/429889/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/JDBCTestDisplayUtil.java
+END
+StatParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/429889/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/StatParser.java
+END
+CanonTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1483727/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/CanonTestCase.java
+END
+SQLStateConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/829155/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/SQLStateConstants.java
+END
+ShortHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/515102/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/ShortHolder.java
+END
+NoMethodInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/429889/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/NoMethodInterface.java
+END
+SimpleProcedureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/429889/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/SimpleProcedureTest.java
+END
+SecurityCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1495471/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/SecurityCheck.java
+END
+HarnessJavaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1495471/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/HarnessJavaTest.java
+END
+derby_tests.policy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1582220/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/derby_tests.policy
+END
+PrivilegedFileOpsForTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1599544/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/PrivilegedFileOpsForTests.java
+END
+TestNullOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/794112/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/TestNullOutputStream.java
+END
+TestRoutines.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1483727/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/TestRoutines.java
+END
+ProtocolTestGrammar.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/980800/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/ProtocolTestGrammar.java
+END
+T_ConsistencyChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/566318/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/T_ConsistencyChecker.java
+END
+TestInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/429889/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/TestInputStream.java
+END
+TestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1492116/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/TestUtil.java
+END
+SubClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/429889/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/SubClass.java
+END
+PropertyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/429889/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/PropertyUtil.java
+END
+DbFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/429889/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/DbFile.java
+END
+Formatters.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/429889/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/Formatters.java
+END
+Triggers.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1584638/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/Triggers.java
+END
+testRoutines.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/467793/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/testRoutines.sql
+END
+Barrier.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1402043/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/Barrier.java
+END
+metadataHelperProcs.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/429889/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/metadataHelperProcs.java
+END
+ProcedureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/469102/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/ProcedureTest.java
+END
+ManyMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1482234/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/ManyMethods.java
+END
+SubSubClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/429889/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/SubSubClass.java
+END
+ThreadDump.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635625/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/ThreadDump.java
+END
+nwsvr.policy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/965647/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/nwsvr.policy
+END
+T_Authorize.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/511226/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/T_Authorize.java
+END
+IjTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1483727/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/IjTestCase.java
+END
+ScriptTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1483727/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/ScriptTestCase.java
+END
+SubInterfaceClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/429889/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/SubInterfaceClass.java
+END
+TestPropertyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/566318/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/TestPropertyInfo.java
+END
+UniqueRandomSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/658572/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/UniqueRandomSequence.java
+END
+SampleVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1483727/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/SampleVTI.java
+END
+ExtendingInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/429889/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/ExtendingInterface.java
+END
+FTFileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1483727/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/FTFileUtil.java
+END
+JarUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/431395/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/JarUtil.java
+END
+SQLToJUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/573432/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/SQLToJUnit.java
+END
+BigDecimalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/515102/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/BigDecimalHandler.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1483727/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/build.xml
+END
+DerbyJUnitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1161422/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/DerbyJUnitTest.java
+END

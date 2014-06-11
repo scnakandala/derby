@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1590817/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/context
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/context/Context.java
+END
+ContextService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1590817/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/context/ContextService.java
+END
+ContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/context/ContextImpl.java
+END
+SystemContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/632129/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/context/SystemContext.java
+END
+ContextManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/context/ContextManager.java
+END

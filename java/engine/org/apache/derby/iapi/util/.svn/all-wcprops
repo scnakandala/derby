@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1591910/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util
+END
+InterruptDetectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1057733/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util/InterruptDetectedException.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1481379/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util/build.xml
+END
+InterruptStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util/InterruptStatus.java
+END
+Matchable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1348768/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util/Matchable.java
+END
+ByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/429924/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util/ByteArray.java
+END
+PropertyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1504809/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util/PropertyUtil.java
+END
+JBitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util/JBitSet.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1591910/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util/StringUtil.java
+END
+UTF8Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/691253/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util/UTF8Util.java
+END
+DoubleProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1481379/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util/DoubleProperties.java
+END
+IdUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1484818/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util/IdUtil.java
+END
+Operator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1348768/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util/Operator.java
+END
+ReuseFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1487773/db/derby/code/trunk/java/engine/org/apache/derby/iapi/util/ReuseFactory.java
+END

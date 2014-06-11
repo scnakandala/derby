@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1589396/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io
+END
+FilePermissionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1589396/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/FilePermissionServiceImpl.java
+END
+TypedFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/516194/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/TypedFormat.java
+END
+ErrorObjectInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/ErrorObjectInput.java
+END
+CloneableStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/902742/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/CloneableStream.java
+END
+FormatIdInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1517761/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/FormatIdInputStream.java
+END
+FormatIdOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/FormatIdOutputStream.java
+END
+FormatIdUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/649007/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/FormatIdUtil.java
+END
+RegisteredFormatIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1535654/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/RegisteredFormatIds.java
+END
+CloseFilterInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1155332/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/CloseFilterInputStream.java
+END
+InputStreamUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/899819/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/InputStreamUtil.java
+END
+FormatableArrayHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/FormatableArrayHolder.java
+END
+FilePermissionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1580789/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/FilePermissionService.java
+END
+StoredFormatIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1535654/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/StoredFormatIds.java
+END
+ArrayInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1519954/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/ArrayInputStream.java
+END
+FormatableInstanceGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/486240/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/FormatableInstanceGetter.java
+END
+CounterOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1341046/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/CounterOutputStream.java
+END
+CompressedNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/CompressedNumber.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1580789/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/build.xml
+END
+FormatableIntHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1411164/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/FormatableIntHolder.java
+END
+LimitObjectInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/LimitObjectInput.java
+END
+DataInputUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1519954/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/DataInputUtil.java
+END
+StreamStorable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/StreamStorable.java
+END
+FormatableHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/FormatableHashtable.java
+END
+FormatableProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1411164/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/FormatableProperties.java
+END
+LimitReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1519954/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/LimitReader.java
+END
+DynamicByteArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/DynamicByteArrayOutputStream.java
+END
+DebugByteTeeOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/DebugByteTeeOutputStream.java
+END
+ErrorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/ErrorInfo.java
+END
+NullOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/NullOutputStream.java
+END
+LimitInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1519954/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/LimitInputStream.java
+END
+Storable.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/Storable.java
+END
+ArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/ArrayOutputStream.java
+END
+DerbyIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/437127/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/DerbyIOException.java
+END
+Formatable.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/516194/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/Formatable.java
+END
+ArrayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1485676/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/ArrayUtil.java
+END
+AccessibleByteArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1142896/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/AccessibleByteArrayOutputStream.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1589396/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/FileUtil.java
+END
+Limit.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1519954/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/Limit.java
+END
+SQLExceptionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/SQLExceptionWrapper.java
+END
+ApplicationObjectInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/ApplicationObjectInputStream.java
+END
+FormatableBitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/FormatableBitSet.java
+END
+FormatableLongHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1411164/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/io/FormatableLongHolder.java
+END

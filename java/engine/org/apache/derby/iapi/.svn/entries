@@ -1,0 +1,95 @@
+10
+
+dir
+1601568
+https://svn.apache.org/repos/asf/db/derby/code/trunk/java/engine/org/apache/derby/iapi
+https://svn.apache.org/repos/asf
+
+
+
+2014-06-02T22:36:14.661856Z
+1599383
+dag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+build.xml
+file
+
+
+
+
+2014-06-11T16:18:16.000000Z
+80f03730a5a6e6fa3a58082fcf805204
+2013-05-11T17:20:06.630680Z
+1481379
+rhillegas
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2381
+
+db
+dir
+
+error
+dir
+
+jdbc
+dir
+
+reference
+dir
+
+security
+dir
+
+services
+dir
+
+sql
+dir
+
+store
+dir
+
+transaction
+dir
+
+types
+dir
+
+util
+dir
+

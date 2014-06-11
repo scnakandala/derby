@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1580789/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda
+END
+DRDAProtocolExceptionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1372814/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/DRDAProtocolExceptionInfo.java
+END
+StandardEXTDTAReaderInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/936950/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/StandardEXTDTAReaderInputStream.java
+END
+LayerBStreamedEXTDTAReaderInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1363662/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/LayerBStreamedEXTDTAReaderInputStream.java
+END
+DRDAStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1537874/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/DRDAStatement.java
+END
+DRDAString.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/988308/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/DRDAString.java
+END
+ClientThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1370674/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/ClientThread.java
+END
+PiggyBackedSessionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1071318/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/PiggyBackedSessionData.java
+END
+DssTrace.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1580789/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/DssTrace.java
+END
+EXTDTAReaderInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1363662/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/EXTDTAReaderInputStream.java
+END
+FdocaConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1372814/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/FdocaConstants.java
+END
+EbcdicCcsidManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1372814/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/EbcdicCcsidManager.java
+END
+DRDAProtocolException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/DRDAProtocolException.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1481379/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/build.xml
+END
+SignedBinary.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/429803/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/SignedBinary.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1370674/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/package.html
+END
+SQLTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1372814/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/SQLTypes.java
+END
+DssConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1370674/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/DssConstants.java
+END
+CharacterEncodings.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1365468/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/CharacterEncodings.java
+END
+DDMReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/DDMReader.java
+END
+Utf8CcsidManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/Utf8CcsidManager.java
+END
+CodePointNameTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1365468/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/CodePointNameTable.java
+END
+XADatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1440262/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/XADatabase.java
+END
+NaiveTrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1363662/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/NaiveTrustManager.java
+END
+DDMWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1559943/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/DDMWriter.java
+END
+ProtocolTestAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1297517/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/ProtocolTestAdapter.java
+END
+ConsistencyToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/431603/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/ConsistencyToken.java
+END
+NetworkServerControlImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1573534/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/NetworkServerControlImpl.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1372814/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/Database.java
+END
+NetworkServerMBeanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1363662/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/NetworkServerMBeanImpl.java
+END
+DecryptionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1372814/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/DecryptionManager.java
+END
+memCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1370674/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/memCheck.java
+END
+DRDAXid.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1370674/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/DRDAXid.java
+END
+FailingEXTDTAInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/936950/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/FailingEXTDTAInputStream.java
+END
+DRDAConnThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1573534/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/DRDAConnThread.java
+END
+CcsidManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/980800/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/CcsidManager.java
+END
+AppRequester.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/AppRequester.java
+END
+Pkgnamcsn.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/429803/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/Pkgnamcsn.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1372814/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/Session.java
+END
+CodePoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1565491/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/CodePoint.java
+END
+ReEncodedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1370674/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/ReEncodedInputStream.java
+END
+DRDAXAProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/DRDAXAProtocol.java
+END
+DRDAResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1394480/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/DRDAResultSet.java
+END
+EXTDTAInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/drda/org/apache/derby/impl/drda/EXTDTAInputStream.java
+END

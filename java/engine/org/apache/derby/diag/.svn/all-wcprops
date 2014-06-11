@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/diag
+END
+ErrorMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1493707/db/derby/code/trunk/java/engine/org/apache/derby/diag/ErrorMessages.java
+END
+DiagUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1163740/db/derby/code/trunk/java/engine/org/apache/derby/diag/DiagUtil.java
+END
+SpaceTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/diag/SpaceTable.java
+END
+StatementCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1493707/db/derby/code/trunk/java/engine/org/apache/derby/diag/StatementCache.java
+END
+ContainedRoles.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1493707/db/derby/code/trunk/java/engine/org/apache/derby/diag/ContainedRoles.java
+END
+StatementDuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1493707/db/derby/code/trunk/java/engine/org/apache/derby/diag/StatementDuration.java
+END
+TransactionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1493707/db/derby/code/trunk/java/engine/org/apache/derby/diag/TransactionTable.java
+END
+ErrorLogReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1493707/db/derby/code/trunk/java/engine/org/apache/derby/diag/ErrorLogReader.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1480251/db/derby/code/trunk/java/engine/org/apache/derby/diag/build.xml
+END
+LockTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/diag/LockTable.java
+END

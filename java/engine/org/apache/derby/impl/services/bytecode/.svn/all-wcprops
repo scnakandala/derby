@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode
+END
+BCMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/BCMethod.java
+END
+BCJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/BCJava.java
+END
+BCMethodCaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/429794/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/BCMethodCaller.java
+END
+VMTypeIdCacheable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/VMTypeIdCacheable.java
+END
+BCClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/BCClass.java
+END
+GClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/GClass.java
+END
+OpcodeDebug.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/OpcodeDebug.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/429794/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/Type.java
+END
+d_BCValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/d_BCValidate.java
+END
+BCExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/429794/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/BCExpr.java
+END
+BCLocalField.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/429794/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/BCLocalField.java
+END
+CodeChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/CodeChunk.java
+END
+Conditional.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/Conditional.java
+END
+BCMethodDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/429794/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/bytecode/BCMethodDescriptor.java
+END

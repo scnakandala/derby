@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1601465/db/derby/code/trunk/java/optional/org/apache/derby/optional/lucene
+END
+LuceneSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1601465/db/derby/code/trunk/java/optional/org/apache/derby/optional/lucene/LuceneSupport.java
+END
+LuceneListIndexesVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1596552/db/derby/code/trunk/java/optional/org/apache/derby/optional/lucene/LuceneListIndexesVTI.java
+END
+DerbyIndexInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1596552/db/derby/code/trunk/java/optional/org/apache/derby/optional/lucene/DerbyIndexInput.java
+END
+DerbyIndexOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1589124/db/derby/code/trunk/java/optional/org/apache/derby/optional/lucene/DerbyIndexOutput.java
+END
+DerbyLuceneDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1596552/db/derby/code/trunk/java/optional/org/apache/derby/optional/lucene/DerbyLuceneDir.java
+END
+LuceneQueryVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1601465/db/derby/code/trunk/java/optional/org/apache/derby/optional/lucene/LuceneQueryVTI.java
+END

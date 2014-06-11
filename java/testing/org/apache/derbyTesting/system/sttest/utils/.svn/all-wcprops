@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/806699/db/derby/code/trunk/java/testing/org/apache/derbyTesting/system/sttest/utils
+END
+Setup.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/501639/db/derby/code/trunk/java/testing/org/apache/derbyTesting/system/sttest/utils/Setup.java
+END
+CompressTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/806699/db/derby/code/trunk/java/testing/org/apache/derbyTesting/system/sttest/utils/CompressTable.java
+END
+StStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/501639/db/derby/code/trunk/java/testing/org/apache/derbyTesting/system/sttest/utils/StStatus.java
+END
+Datatypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/806699/db/derby/code/trunk/java/testing/org/apache/derbyTesting/system/sttest/utils/Datatypes.java
+END

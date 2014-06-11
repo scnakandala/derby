@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1518766/db/derby/code/trunk/java/client/org/apache/derby/jdbc
+END
+ClientXADataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1486949/db/derby/code/trunk/java/client/org/apache/derby/jdbc/ClientXADataSource.java
+END
+ClientConnectionPoolDataSourceInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1471245/db/derby/code/trunk/java/client/org/apache/derby/jdbc/ClientConnectionPoolDataSourceInterface.java
+END
+ClientBaseDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1430648/db/derby/code/trunk/java/client/org/apache/derby/jdbc/ClientBaseDataSource.java
+END
+ClientXADataSource40.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1489349/db/derby/code/trunk/java/client/org/apache/derby/jdbc/ClientXADataSource40.java
+END
+ClientBaseDataSourceRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1518766/db/derby/code/trunk/java/client/org/apache/derby/jdbc/ClientBaseDataSourceRoot.java
+END
+BasicClientXADataSource40.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1482632/db/derby/code/trunk/java/client/org/apache/derby/jdbc/BasicClientXADataSource40.java
+END
+ClientDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1486949/db/derby/code/trunk/java/client/org/apache/derby/jdbc/ClientDataSource.java
+END
+ClientDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1505928/db/derby/code/trunk/java/client/org/apache/derby/jdbc/ClientDriver.java
+END
+ClientDataSource40.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1489349/db/derby/code/trunk/java/client/org/apache/derby/jdbc/ClientDataSource40.java
+END
+ClientDriver40.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1482405/db/derby/code/trunk/java/client/org/apache/derby/jdbc/ClientDriver40.java
+END
+BasicClientDataSource40.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1482632/db/derby/code/trunk/java/client/org/apache/derby/jdbc/BasicClientDataSource40.java
+END
+ClientXADataSourceInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1471245/db/derby/code/trunk/java/client/org/apache/derby/jdbc/ClientXADataSourceInterface.java
+END
+ClientConnectionPoolDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1486949/db/derby/code/trunk/java/client/org/apache/derby/jdbc/ClientConnectionPoolDataSource.java
+END
+ClientConnectionPoolDataSource40.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1489349/db/derby/code/trunk/java/client/org/apache/derby/jdbc/ClientConnectionPoolDataSource40.java
+END
+BasicClientConnectionPoolDataSource40.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1487559/db/derby/code/trunk/java/client/org/apache/derby/jdbc/BasicClientConnectionPoolDataSource40.java
+END
+ClientDataSourceInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1471245/db/derby/code/trunk/java/client/org/apache/derby/jdbc/ClientDataSourceInterface.java
+END

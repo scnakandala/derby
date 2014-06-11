@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1482862/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/perf
+END
+existingDb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/431395/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/perf/existingDb.jar
+END
+StartupExistingDBTest_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/547712/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/perf/StartupExistingDBTest_app.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482862/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/perf/build.xml
+END
+copyfiles.ant
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/431395/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/perf/copyfiles.ant
+END
+StartupNewDBTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/432487/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/perf/StartupNewDBTest.java
+END
+StartupExistingDBTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/432487/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/perf/StartupExistingDBTest.java
+END

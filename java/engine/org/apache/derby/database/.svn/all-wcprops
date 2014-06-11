@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1591910/db/derby/code/trunk/java/engine/org/apache/derby/database
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1480251/db/derby/code/trunk/java/engine/org/apache/derby/database/build.xml
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1591910/db/derby/code/trunk/java/engine/org/apache/derby/database/Database.java
+END

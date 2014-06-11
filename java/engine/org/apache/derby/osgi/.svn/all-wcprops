@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1481379/db/derby/code/trunk/java/engine/org/apache/derby/osgi
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1481379/db/derby/code/trunk/java/engine/org/apache/derby/osgi/build.xml
+END
+EmbeddedActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/429870/db/derby/code/trunk/java/engine/org/apache/derby/osgi/EmbeddedActivator.java
+END

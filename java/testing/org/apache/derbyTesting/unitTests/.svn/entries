@@ -1,0 +1,83 @@
+10
+
+dir
+1601568
+https://svn.apache.org/repos/asf/db/derby/code/trunk/java/testing/org/apache/derbyTesting/unitTests
+https://svn.apache.org/repos/asf
+
+
+
+2013-11-25T20:30:45.505887Z
+1545394
+dag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+build.xml
+file
+
+
+
+
+2014-06-11T16:17:59.000000Z
+b96a71661256b4979903b5a5b37006b5
+2013-05-17T10:25:14.563630Z
+1483727
+kahatlen
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3383
+
+crypto
+dir
+
+harness
+dir
+
+junit
+dir
+
+lang
+dir
+
+services
+dir
+
+store
+dir
+
+util
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1502965/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/property
+END
+PropertyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1502965/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/property/PropertyUtil.java
+END
+PersistentSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/property/PersistentSet.java
+END
+PropertyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/property/PropertyFactory.java
+END
+PropertySetCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/property/PropertySetCallback.java
+END
+PropertyValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1480365/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/property/PropertyValidation.java
+END

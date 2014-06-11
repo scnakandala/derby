@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1594435/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit
+END
+CleanDatabaseTestSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1482234/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/CleanDatabaseTestSetup.java
+END
+EnvTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1073874/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/EnvTest.java
+END
+ChangeSSLSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/546861/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/ChangeSSLSetup.java
+END
+BaseJDBCTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1590849/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/BaseJDBCTestCase.java
+END
+DatabasePropertyTestSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1336349/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/DatabasePropertyTestSetup.java
+END
+SQLUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/571208/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/SQLUtilities.java
+END
+DatabaseChangeSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1235750/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/DatabaseChangeSetup.java
+END
+BaseTestSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/541044/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/BaseTestSetup.java
+END
+XADataSourceConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1550308/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/XADataSourceConnector.java
+END
+LoginTimeoutTestSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1583304/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/LoginTimeoutTestSetup.java
+END
+DriverManagerConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1550308/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/DriverManagerConnector.java
+END
+JDBCClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1495471/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/JDBCClient.java
+END
+JDBC.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1582514/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/JDBC.java
+END
+ClasspathSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1582220/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/ClasspathSetup.java
+END
+Derby.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1440262/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/Derby.java
+END
+DerbyDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1494901/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/DerbyDistribution.java
+END
+BaseTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1545935/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/BaseTestCase.java
+END
+DropDatabaseSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1589624/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/DropDatabaseSetup.java
+END
+Utilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1448941/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/Utilities.java
+END
+ConnectorSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/509258/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/ConnectorSetup.java
+END
+RuntimeStatisticsParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1482234/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/RuntimeStatisticsParser.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1482234/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/build.xml
+END
+BaseJDBCTestSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1330196/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/BaseJDBCTestSetup.java
+END
+ConnectionPoolDataSourceConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1550308/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/ConnectionPoolDataSourceConnector.java
+END
+SupportFilesSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1545394/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/SupportFilesSetup.java
+END
+ReleaseRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1494883/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/ReleaseRepository.java
+END
+LocaleTestSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1482780/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/LocaleTestSetup.java
+END
+JDBCClientSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/815303/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/JDBCClientSetup.java
+END
+ServerSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/895582/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/ServerSetup.java
+END
+Connector.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1550308/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/Connector.java
+END
+JAXPFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1199234/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/JAXPFinder.java
+END
+ChangeConfigurationSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/493180/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/ChangeConfigurationSetup.java
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1482234/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/XML.java
+END
+SpawnedProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1294592/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/SpawnedProcess.java
+END
+J2EEDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1430648/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/J2EEDataSource.java
+END
+NetworkServerTestSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1594435/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/NetworkServerTestSetup.java
+END
+DerbyConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/955529/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/DerbyConstants.java
+END
+ChangeUserSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/502358/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/ChangeUserSetup.java
+END
+DataSourceConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1550308/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/DataSourceConnector.java
+END
+XATestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1586158/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/XATestUtil.java
+END
+TestConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1589624/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/TestConfiguration.java
+END
+SystemPropertyTestSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1560311/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/SystemPropertyTestSetup.java
+END
+JDBCPerfTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1332967/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/JDBCPerfTestCase.java
+END
+DerbyVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1453748/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/DerbyVersion.java
+END
+TimeZoneTestSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1555702/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/TimeZoneTestSetup.java
+END
+JDBCDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1482234/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/JDBCDataSource.java
+END
+BigDecimalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/630161/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/BigDecimalHandler.java
+END
+Decorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1489924/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/Decorator.java
+END
+NetworkServerControlWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482234/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/NetworkServerControlWrapper.java
+END
+OsName.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1081494/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/OsName.java
+END
+SecurityManagerSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1580387/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/SecurityManagerSetup.java
+END
+IndexStatsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1482234/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/IndexStatsUtil.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1245349/db/derby/code/trunk/java/testing/org/apache/derbyTesting/junit/Version.java
+END

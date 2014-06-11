@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1593702/db/derby/code/trunk/java/engine/org/apache/derby/iapi/error
+END
+SQLWarningFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1493714/db/derby/code/trunk/java/engine/org/apache/derby/iapi/error/SQLWarningFactory.java
+END
+ThreadDump.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1043334/db/derby/code/trunk/java/engine/org/apache/derby/iapi/error/ThreadDump.java
+END
+StandardException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1593702/db/derby/code/trunk/java/engine/org/apache/derby/iapi/error/StandardException.java
+END
+PassThroughException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/736017/db/derby/code/trunk/java/engine/org/apache/derby/iapi/error/PassThroughException.java
+END
+ErrorStringBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/632129/db/derby/code/trunk/java/engine/org/apache/derby/iapi/error/ErrorStringBuilder.java
+END
+PublicAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1573534/db/derby/code/trunk/java/engine/org/apache/derby/iapi/error/PublicAPI.java
+END
+ExceptionSeverity.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/429922/db/derby/code/trunk/java/engine/org/apache/derby/iapi/error/ExceptionSeverity.java
+END
+ShutdownException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/632129/db/derby/code/trunk/java/engine/org/apache/derby/iapi/error/ShutdownException.java
+END
+ExceptionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1576367/db/derby/code/trunk/java/engine/org/apache/derby/iapi/error/ExceptionUtil.java
+END

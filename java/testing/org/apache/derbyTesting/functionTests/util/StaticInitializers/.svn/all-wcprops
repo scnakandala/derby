@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/557423/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/StaticInitializers
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/430172/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/StaticInitializers/README.txt
+END
+DMLInStaticInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/557423/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/StaticInitializers/DMLInStaticInitializer.java
+END
+InsertInStaticInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/557423/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/util/StaticInitializers/InsertInStaticInitializer.java
+END

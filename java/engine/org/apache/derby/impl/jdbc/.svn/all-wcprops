@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1593949/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc
+END
+PositionedStoreStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/PositionedStoreStream.java
+END
+LOBStoredProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1454600/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/LOBStoredProcedure.java
+END
+StoreStreamClob.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/StoreStreamClob.java
+END
+LOBFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/704010/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/LOBFile.java
+END
+BinaryToRawStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/BinaryToRawStream.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1485822/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/build.xml
+END
+ReaderToAscii.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/541410/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/ReaderToAscii.java
+END
+TransactionResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1573934/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/TransactionResourceImpl.java
+END
+Util42.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1455602/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/Util42.java
+END
+EmbedResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1573934/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedResultSet.java
+END
+EmbedCallableStatement42.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1492544/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedCallableStatement42.java
+END
+EmbedResultSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1531821/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedResultSetMetaData.java
+END
+EmbedPreparedStatement42.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1492544/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedPreparedStatement42.java
+END
+EmbedParameterSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1493707/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedParameterSetMetaData.java
+END
+metadata.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1593949/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/metadata.properties
+END
+EmbedConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1573934/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedConnection.java
+END
+EmbedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1570490/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedStatement.java
+END
+ClobAsciiStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/541315/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/ClobAsciiStream.java
+END
+EmbedSavepoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1364917/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedSavepoint.java
+END
+SQLExceptionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1573534/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/SQLExceptionFactory.java
+END
+AutoPositioningStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/AutoPositioningStream.java
+END
+LOBInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/LOBInputStream.java
+END
+UTF8Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/UTF8Reader.java
+END
+LOBOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1155332/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/LOBOutputStream.java
+END
+EmbedBlob.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedBlob.java
+END
+EmbedClob.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedClob.java
+END
+UpdatableBlobStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/746236/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/UpdatableBlobStream.java
+END
+InternalClob.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/782600/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/InternalClob.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1573934/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/Util.java
+END
+EmbedCallableStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1516715/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedCallableStatement.java
+END
+TemporaryClob.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1341350/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/TemporaryClob.java
+END
+ClobUtf8Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1155332/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/ClobUtf8Writer.java
+END
+ClobUpdatableReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/ClobUpdatableReader.java
+END
+EmbedPreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1519954/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedPreparedStatement.java
+END
+LOBStreamControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1485333/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/LOBStreamControl.java
+END
+EncryptedLOBFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1466503/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EncryptedLOBFile.java
+END
+EmbedResultSet42.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1493707/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedResultSet42.java
+END
+EmbedConnectionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1485333/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedConnectionContext.java
+END
+EmbedDatabaseMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1519785/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/EmbedDatabaseMetaData.java
+END
+ConnectionChild.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1496449/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/ConnectionChild.java
+END

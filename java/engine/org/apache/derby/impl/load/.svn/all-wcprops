@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1545394/db/derby/code/trunk/java/engine/org/apache/derby/impl/load
+END
+Export.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1519954/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/Export.java
+END
+ImportResultSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/905289/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/ImportResultSetMetaData.java
+END
+ExportWriteData.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1482443/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/ExportWriteData.java
+END
+LoadError.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/559169/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/LoadError.java
+END
+ExportResultSetForObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/739830/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/ExportResultSetForObject.java
+END
+ControlInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/515708/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/ControlInfo.java
+END
+ImportAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/905289/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/ImportAbstract.java
+END
+ImportReadData.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/ImportReadData.java
+END
+ExportAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1071320/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/ExportAbstract.java
+END
+ImportLobFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1482443/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/ImportLobFile.java
+END
+ImportBlob.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1481379/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/ImportBlob.java
+END
+ColumnInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1488929/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/ColumnInfo.java
+END
+ImportClob.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1481379/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/ImportClob.java
+END
+Import.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1545394/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/Import.java
+END
+ExportWriteDataAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/512109/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/ExportWriteDataAbstract.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1482443/db/derby/code/trunk/java/engine/org/apache/derby/impl/load/build.xml
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1481248/db/derby/code/trunk/java/stubs/jdbc4/javax/sql
+END
+StatementEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/StatementEventListener.java
+END
+RowSetWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/RowSetWriter.java
+END
+RowSetInternal.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/RowSetInternal.java
+END
+RowSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/RowSet.java
+END
+XADataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/XADataSource.java
+END
+RowSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/RowSetMetaData.java
+END
+RowSetEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/RowSetEvent.java
+END
+XAConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/XAConnection.java
+END
+RowSetListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/RowSetListener.java
+END
+DataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/DataSource.java
+END
+ConnectionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1481248/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/ConnectionEvent.java
+END
+PooledConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/PooledConnection.java
+END
+CommonDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/CommonDataSource.java
+END
+ConnectionPoolDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/ConnectionPoolDataSource.java
+END
+StatementEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/StatementEvent.java
+END
+RowSetReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/RowSetReader.java
+END
+ConnectionEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/ConnectionEventListener.java
+END

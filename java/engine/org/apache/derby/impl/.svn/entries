@@ -1,0 +1,86 @@
+10
+
+dir
+1601568
+https://svn.apache.org/repos/asf/db/derby/code/trunk/java/engine/org/apache/derby/impl
+https://svn.apache.org/repos/asf
+
+
+
+2014-06-07T20:13:33.724259Z
+1601169
+myrnavl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+build.xml
+file
+
+
+
+
+2014-06-11T16:18:21.000000Z
+0d4f154152b51495ec5e64956cc67f59
+2014-03-30T22:23:28.435725Z
+1583216
+rhillegas
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1888
+
+db
+dir
+
+io
+dir
+
+jdbc
+dir
+
+load
+dir
+
+optional
+dir
+
+services
+dir
+
+sql
+dir
+
+store
+dir
+

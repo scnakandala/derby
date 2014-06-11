@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1440269/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources
+END
+EmbeddedConnectionPoolDataSource-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1438035/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedConnectionPoolDataSource-10_10_1_0.ser
+END
+ClientXADataSource-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1438035/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientXADataSource-10_10_1_0.ser
+END
+ClientConnectionPoolDataSource-10_2_2_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientConnectionPoolDataSource-10_2_2_0.ser
+END
+ClientConnectionPoolDataSource-10_1_3_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientConnectionPoolDataSource-10_1_3_1.ser
+END
+ClientConnectionPoolDataSource-10_3_2_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientConnectionPoolDataSource-10_3_2_1.ser
+END
+ClientDataSource40-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1438035/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientDataSource40-10_10_1_0.ser
+END
+EmbeddedConnectionPoolDataSource-10_0_2_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedConnectionPoolDataSource-10_0_2_1.ser
+END
+BasicClientDataSource40-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1440262/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/BasicClientDataSource40-10_10_1_0.ser
+END
+EmbeddedConnectionPoolDataSource-10_2_2_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedConnectionPoolDataSource-10_2_2_0.ser
+END
+EmbeddedConnectionPoolDataSource-10_1_3_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedConnectionPoolDataSource-10_1_3_1.ser
+END
+EmbeddedXADataSource40-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1438035/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedXADataSource40-10_10_1_0.ser
+END
+EmbeddedConnectionPoolDataSource-10_3_2_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedConnectionPoolDataSource-10_3_2_1.ser
+END
+BasicEmbeddedXADataSource40-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1440262/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/BasicEmbeddedXADataSource40-10_10_1_0.ser
+END
+ClientConnectionPoolDataSource-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1438035/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientConnectionPoolDataSource-10_10_1_0.ser
+END
+ClientXADataSource-10_2_2_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientXADataSource-10_2_2_0.ser
+END
+EmbeddedDataSource-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1438035/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedDataSource-10_10_1_0.ser
+END
+ClientXADataSource-10_1_3_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientXADataSource-10_1_3_1.ser
+END
+ClientXADataSource-10_3_2_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientXADataSource-10_3_2_1.ser
+END
+ClientDataSource-10_2_2_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientDataSource-10_2_2_0.ser
+END
+ClientDataSource-10_1_3_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientDataSource-10_1_3_1.ser
+END
+ClientDataSource-10_3_2_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientDataSource-10_3_2_1.ser
+END
+EmbeddedXADataSource-10_0_2_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedXADataSource-10_0_2_1.ser
+END
+EmbeddedXADataSource-10_2_2_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedXADataSource-10_2_2_0.ser
+END
+EmbeddedXADataSource-10_1_3_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedXADataSource-10_1_3_1.ser
+END
+EmbeddedXADataSource-10_3_2_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedXADataSource-10_3_2_1.ser
+END
+EmbeddedConnectionPoolDataSource40-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1438035/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedConnectionPoolDataSource40-10_10_1_0.ser
+END
+BasicEmbeddedConnectionPoolDataSource40-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1440262/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/BasicEmbeddedConnectionPoolDataSource40-10_10_1_0.ser
+END
+EmbeddedDataSource-10_0_2_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedDataSource-10_0_2_1.ser
+END
+ClientXADataSource40-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1438035/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientXADataSource40-10_10_1_0.ser
+END
+EmbeddedDataSource-10_2_2_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedDataSource-10_2_2_0.ser
+END
+EmbeddedDataSource-10_1_3_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedDataSource-10_1_3_1.ser
+END
+EmbeddedDataSource-10_3_2_1.ser
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/628038/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedDataSource-10_3_2_1.ser
+END
+BasicClientXADataSource40-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1440262/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/BasicClientXADataSource40-10_10_1_0.ser
+END
+ClientDataSource-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1438035/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientDataSource-10_10_1_0.ser
+END
+EmbeddedXADataSource-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1438035/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedXADataSource-10_10_1_0.ser
+END
+SerializeDataSources.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1440269/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/SerializeDataSources.java
+END
+ClientConnectionPoolDataSource40-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1438035/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/ClientConnectionPoolDataSource40-10_10_1_0.ser
+END
+EmbeddedDataSource40-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1438035/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/EmbeddedDataSource40-10_10_1_0.ser
+END
+BasicClientConnectionPoolDataSource40-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/asf/!svn/ver/1440262/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/BasicClientConnectionPoolDataSource40-10_10_1_0.ser
+END
+BasicEmbeddedDataSource40-10_10_1_0.ser
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1440262/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/testData/serializedDataSources/BasicEmbeddedDataSource40-10_10_1_0.ser
+END

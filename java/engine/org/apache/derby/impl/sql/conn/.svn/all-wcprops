@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1590849/db/derby/code/trunk/java/engine/org/apache/derby/impl/sql/conn
+END
+GenericLanguageConnectionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1590849/db/derby/code/trunk/java/engine/org/apache/derby/impl/sql/conn/GenericLanguageConnectionContext.java
+END
+GenericStatementContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1532666/db/derby/code/trunk/java/engine/org/apache/derby/impl/sql/conn/GenericStatementContext.java
+END
+GenericLanguageConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/sql/conn/GenericLanguageConnectionFactory.java
+END
+GenericAuthorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/sql/conn/GenericAuthorizer.java
+END
+TempTableInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/429828/db/derby/code/trunk/java/engine/org/apache/derby/impl/sql/conn/TempTableInfo.java
+END
+SQLSessionContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1576367/db/derby/code/trunk/java/engine/org/apache/derby/impl/sql/conn/SQLSessionContextImpl.java
+END
+CachedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/sql/conn/CachedStatement.java
+END

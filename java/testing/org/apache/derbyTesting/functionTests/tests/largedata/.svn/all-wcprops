@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1530704/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/largedata
+END
+Derby5624Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1300459/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/largedata/Derby5624Test.java
+END
+Derby6317Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1521310/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/largedata/Derby6317Test.java
+END
+_Suite.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1521310/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/largedata/_Suite.java
+END
+LobLimitsLiteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1298907/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/largedata/LobLimitsLiteTest.java
+END
+LobLimitsClientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1305524/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/largedata/LobLimitsClientTest.java
+END
+LobLimitsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1530704/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/largedata/LobLimitsTest.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1482862/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/largedata/build.xml
+END

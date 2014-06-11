@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/rowset/serial
+END
+SerialRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/rowset/serial/SerialRef.java
+END
+SerialArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/rowset/serial/SerialArray.java
+END
+SerialBlob.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/rowset/serial/SerialBlob.java
+END
+SerialException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/rowset/serial/SerialException.java
+END
+SerialClob.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/rowset/serial/SerialClob.java
+END
+SQLInputImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/rowset/serial/SQLInputImpl.java
+END
+SQLOutputImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/rowset/serial/SQLOutputImpl.java
+END
+SerialStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/rowset/serial/SerialStruct.java
+END
+SerialDatalink.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/rowset/serial/SerialDatalink.java
+END
+SerialJavaObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/javax/sql/rowset/serial/SerialJavaObject.java
+END

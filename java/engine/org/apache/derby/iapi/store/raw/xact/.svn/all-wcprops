@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1593702/db/derby/code/trunk/java/engine/org/apache/derby/iapi/store/raw/xact
+END
+TransactionId.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/429816/db/derby/code/trunk/java/engine/org/apache/derby/iapi/store/raw/xact/TransactionId.java
+END
+TransactionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1593702/db/derby/code/trunk/java/engine/org/apache/derby/iapi/store/raw/xact/TransactionFactory.java
+END
+RawTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1469243/db/derby/code/trunk/java/engine/org/apache/derby/iapi/store/raw/xact/RawTransaction.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1293147/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/uuid
+END
+BasicUUIDFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1293147/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/uuid/BasicUUIDFactory.java
+END
+BasicUUIDGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/429794/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/uuid/BasicUUIDGetter.java
+END
+BasicUUID.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1293147/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/uuid/BasicUUID.java
+END

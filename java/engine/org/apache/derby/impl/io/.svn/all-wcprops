@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1591910/db/derby/code/trunk/java/engine/org/apache/derby/impl/io
+END
+JarStorageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/890692/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/JarStorageFactory.java
+END
+DirStorageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1492111/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/DirStorageFactory.java
+END
+InputStreamFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1583650/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/InputStreamFile.java
+END
+DirFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1583578/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/DirFile.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1482443/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/build.xml
+END
+CPStorageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/CPStorageFactory.java
+END
+URLStorageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/URLStorageFactory.java
+END
+DirRandomAccessFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1589124/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/DirRandomAccessFile.java
+END
+VFMemoryStorageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1482443/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/VFMemoryStorageFactory.java
+END
+CPFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1583650/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/CPFile.java
+END
+JarDBFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1583650/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/JarDBFile.java
+END
+URLFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1583650/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/URLFile.java
+END
+BaseStorageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1207729/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/BaseStorageFactory.java
+END

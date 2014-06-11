@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/980460/db/derby/code/trunk/java/stubs/jdbc4/java/sql
+END
+SQLNonTransientConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLNonTransientConnectionException.java
+END
+RowIdLifetime.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/RowIdLifetime.java
+END
+Statement.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Statement.java
+END
+Types.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Types.java
+END
+DatabaseMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/DatabaseMetaData.java
+END
+SQLTransientException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLTransientException.java
+END
+SQLIntegrityConstraintViolationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLIntegrityConstraintViolationException.java
+END
+SQLDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLDataException.java
+END
+SQLPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLPermission.java
+END
+Savepoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Savepoint.java
+END
+DriverPropertyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/DriverPropertyInfo.java
+END
+SQLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLException.java
+END
+Array.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Array.java
+END
+DataTruncation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/DataTruncation.java
+END
+SQLOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLOutput.java
+END
+SQLNonTransientException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLNonTransientException.java
+END
+SQLFeatureNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLFeatureNotSupportedException.java
+END
+ParameterMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/ParameterMetaData.java
+END
+RowId.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/RowId.java
+END
+CallableStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/CallableStatement.java
+END
+Struct.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Struct.java
+END
+PreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/PreparedStatement.java
+END
+SQLRecoverableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLRecoverableException.java
+END
+SQLData.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLData.java
+END
+SQLClientInfoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLClientInfoException.java
+END
+Driver.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Driver.java
+END
+NClob.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/NClob.java
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Connection.java
+END
+Timestamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Timestamp.java
+END
+BatchUpdateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/BatchUpdateException.java
+END
+Ref.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Ref.java
+END
+Date.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/980460/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Date.java
+END
+Blob.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Blob.java
+END
+SQLInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLInput.java
+END
+Clob.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Clob.java
+END
+Wrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Wrapper.java
+END
+SQLXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLXML.java
+END
+SQLInvalidAuthorizationSpecException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLInvalidAuthorizationSpecException.java
+END
+SQLWarning.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLWarning.java
+END
+SQLTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLTimeoutException.java
+END
+DriverManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/DriverManager.java
+END
+SQLTransientConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLTransientConnectionException.java
+END
+ResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/ResultSet.java
+END
+ResultSetMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/ResultSetMetaData.java
+END
+ClientInfoStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/ClientInfoStatus.java
+END
+Time.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/980460/db/derby/code/trunk/java/stubs/jdbc4/java/sql/Time.java
+END
+SQLTransactionRollbackException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLTransactionRollbackException.java
+END
+SQLSyntaxErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/724735/db/derby/code/trunk/java/stubs/jdbc4/java/sql/SQLSyntaxErrorException.java
+END

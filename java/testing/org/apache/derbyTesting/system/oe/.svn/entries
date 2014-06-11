@@ -1,0 +1,89 @@
+10
+
+dir
+1601568
+https://svn.apache.org/repos/asf/db/derby/code/trunk/java/testing/org/apache/derbyTesting/system/oe
+https://svn.apache.org/repos/asf
+
+
+
+2013-05-15T12:11:01.931911Z
+1482780
+kahatlen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+build.xml
+file
+
+
+
+
+2014-06-11T16:17:58.000000Z
+aa113d2f2a4a1532dd7b0038a4a08983
+2013-05-15T12:11:01.931911Z
+1482780
+kahatlen
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3365
+
+client
+dir
+
+direct
+dir
+
+load
+dir
+
+model
+dir
+
+routines
+dir
+
+run
+dir
+
+schema
+dir
+
+test
+dir
+
+util
+dir
+

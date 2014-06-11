@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1593898/db/derby/code/trunk/java/build/org/apache/derbyBuild
+END
+propertyconfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/789313/db/derby/code/trunk/java/build/org/apache/derbyBuild/propertyconfig.java
+END
+ReleaseNotesTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1430291/db/derby/code/trunk/java/build/org/apache/derbyBuild/ReleaseNotesTransformer.java
+END
+ElementFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1071318/db/derby/code/trunk/java/build/org/apache/derbyBuild/ElementFacade.java
+END
+MessageBundleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1167017/db/derby/code/trunk/java/build/org/apache/derbyBuild/MessageBundleTest.java
+END
+MessageVetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1189063/db/derby/code/trunk/java/build/org/apache/derbyBuild/MessageVetter.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1487133/db/derby/code/trunk/java/build/org/apache/derbyBuild/build.xml
+END
+ODBCMetadataGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/build/org/apache/derbyBuild/ODBCMetadataGenerator.java
+END
+ClassSizeCrawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1485322/db/derby/code/trunk/java/build/org/apache/derbyBuild/ClassSizeCrawler.java
+END
+GeneratorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1437872/db/derby/code/trunk/java/build/org/apache/derbyBuild/GeneratorBase.java
+END
+odbcgen_fragments.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1593898/db/derby/code/trunk/java/build/org/apache/derbyBuild/odbcgen_fragments.properties
+END
+splitmessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1454600/db/derby/code/trunk/java/build/org/apache/derbyBuild/splitmessages.java
+END
+maintversion2props.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/429495/db/derby/code/trunk/java/build/org/apache/derbyBuild/maintversion2props.java
+END
+classlister.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/build/org/apache/derbyBuild/classlister.java
+END
+ReleaseNoteReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1090322/db/derby/code/trunk/java/build/org/apache/derbyBuild/ReleaseNoteReader.java
+END
+MessageBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1394480/db/derby/code/trunk/java/build/org/apache/derbyBuild/MessageBuilder.java
+END
+TagReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/936472/db/derby/code/trunk/java/build/org/apache/derbyBuild/TagReader.java
+END
+JiraIssue.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1032479/db/derby/code/trunk/java/build/org/apache/derbyBuild/JiraIssue.java
+END
+ReleaseNotesGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1455291/db/derby/code/trunk/java/build/org/apache/derbyBuild/ReleaseNotesGenerator.java
+END
+JiraConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1063918/db/derby/code/trunk/java/build/org/apache/derbyBuild/JiraConnector.java
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1576367/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute
+END
+ScanQualifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/429920/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ScanQualifier.java
+END
+ExecAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1378639/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ExecAggregator.java
+END
+ConstantAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1535360/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ConstantAction.java
+END
+CursorResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/515102/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/CursorResultSet.java
+END
+ExecutionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/768597/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ExecutionFactory.java
+END
+ExecPreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1519045/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ExecPreparedStatement.java
+END
+ResultSetStatisticsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1196542/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ResultSetStatisticsFactory.java
+END
+RunTimeStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/768597/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/RunTimeStatistics.java
+END
+CursorActivation.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/515102/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/CursorActivation.java
+END
+RowChanger.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1576367/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/RowChanger.java
+END
+TupleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/515102/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/TupleFilter.java
+END
+TargetResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1576367/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/TargetResultSet.java
+END
+ExecIndexRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/515102/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ExecIndexRow.java
+END
+ResultSetStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1196542/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ResultSetStatistics.java
+END
+TemporaryRowHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/TemporaryRowHolder.java
+END
+ExecutionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1476291/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ExecutionContext.java
+END
+ExecCursorTableReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/515102/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ExecCursorTableReference.java
+END
+ExecRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1222215/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ExecRow.java
+END
+NoPutResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1576367/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/NoPutResultSet.java
+END
+ExecutionStmtValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/515102/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ExecutionStmtValidator.java
+END
+ResultSetFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1576367/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ResultSetFactory.java
+END
+ExecRowBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1517761/db/derby/code/trunk/java/engine/org/apache/derby/iapi/sql/execute/ExecRowBuilder.java
+END

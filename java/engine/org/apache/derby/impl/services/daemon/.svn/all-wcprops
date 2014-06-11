@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/daemon
+END
+IndexStatisticsDaemonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/daemon/IndexStatisticsDaemonImpl.java
+END
+ServiceRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/429794/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/daemon/ServiceRecord.java
+END
+BasicDaemon.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/daemon/BasicDaemon.java
+END
+SingleThreadDaemonFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1482578/db/derby/code/trunk/java/engine/org/apache/derby/impl/services/daemon/SingleThreadDaemonFactory.java
+END

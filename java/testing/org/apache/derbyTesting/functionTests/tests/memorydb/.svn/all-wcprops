@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1482044/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/memorydb
+END
+GenMog.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/759181/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/memorydb/GenMog.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1482044/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/memorydb/build.xml
+END
+MogTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/884542/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/memorydb/MogTest.java
+END
+SampMog.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/759181/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/memorydb/SampMog.java
+END
+DropWhileConnectingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1347888/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/memorydb/DropWhileConnectingTest.java
+END
+BasicInMemoryDbTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1082282/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/memorydb/BasicInMemoryDbTest.java
+END
+_Suite.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/759181/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/memorydb/_Suite.java
+END
+ClusMog.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/761508/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/memorydb/ClusMog.java
+END
+ClusMogSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/759181/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/memorydb/ClusMogSQL.java
+END
+MemoryDbManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1482044/db/derby/code/trunk/java/testing/org/apache/derbyTesting/functionTests/tests/memorydb/MemoryDbManager.java
+END

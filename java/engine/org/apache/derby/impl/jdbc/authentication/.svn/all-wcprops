@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/authentication
+END
+NoneAuthenticationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/515102/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/authentication/NoneAuthenticationServiceImpl.java
+END
+BasicAuthenticationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1327910/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/authentication/BasicAuthenticationServiceImpl.java
+END
+JNDIAuthenticationSchemeBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/authentication/JNDIAuthenticationSchemeBase.java
+END
+JNDIAuthenticationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/516196/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/authentication/JNDIAuthenticationService.java
+END
+LDAPAuthenticationSchemeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/authentication/LDAPAuthenticationSchemeImpl.java
+END
+SpecificAuthenticationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1335010/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/authentication/SpecificAuthenticationServiceImpl.java
+END
+NativeAuthenticationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/authentication/NativeAuthenticationServiceImpl.java
+END
+AuthenticationServiceBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/jdbc/authentication/AuthenticationServiceBase.java
+END

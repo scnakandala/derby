@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1493714/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/i18n
+END
+LocaleFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/922682/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/i18n/LocaleFinder.java
+END
+BundleFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/429811/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/i18n/BundleFinder.java
+END
+MessageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1493714/db/derby/code/trunk/java/engine/org/apache/derby/iapi/services/i18n/MessageService.java
+END

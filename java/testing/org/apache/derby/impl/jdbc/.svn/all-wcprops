@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/734630/db/derby/code/trunk/java/testing/org/apache/derby/impl/jdbc
+END
+SmallStoreStreamClobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/734630/db/derby/code/trunk/java/testing/org/apache/derby/impl/jdbc/SmallStoreStreamClobTest.java
+END
+BiggerTemporaryClobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/734630/db/derby/code/trunk/java/testing/org/apache/derby/impl/jdbc/BiggerTemporaryClobTest.java
+END
+BiggerStoreStreamClobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/734630/db/derby/code/trunk/java/testing/org/apache/derby/impl/jdbc/BiggerStoreStreamClobTest.java
+END
+_Suite.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/704547/db/derby/code/trunk/java/testing/org/apache/derby/impl/jdbc/_Suite.java
+END
+UTF8ReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/734630/db/derby/code/trunk/java/testing/org/apache/derby/impl/jdbc/UTF8ReaderTest.java
+END
+SmallTemporaryClobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/734630/db/derby/code/trunk/java/testing/org/apache/derby/impl/jdbc/SmallTemporaryClobTest.java
+END
+InternalClobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/734630/db/derby/code/trunk/java/testing/org/apache/derby/impl/jdbc/InternalClobTest.java
+END

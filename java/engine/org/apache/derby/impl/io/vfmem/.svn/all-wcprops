@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1591910/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/vfmem
+END
+BlockedByteArrayInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/752114/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/vfmem/BlockedByteArrayInputStream.java
+END
+BlockedByteArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/752114/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/vfmem/BlockedByteArrayOutputStream.java
+END
+BlockedByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1514927/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/vfmem/BlockedByteArray.java
+END
+DataStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1591910/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/vfmem/DataStore.java
+END
+VirtualFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1583578/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/vfmem/VirtualFile.java
+END
+DataStoreEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/759176/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/vfmem/DataStoreEntry.java
+END
+VirtualRandomAccessFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1589124/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/vfmem/VirtualRandomAccessFile.java
+END
+PathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/752114/db/derby/code/trunk/java/engine/org/apache/derby/impl/io/vfmem/PathUtil.java
+END
